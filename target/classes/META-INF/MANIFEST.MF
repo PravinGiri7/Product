@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Product
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Pravin Giri
+Implementation-Vendor-Id: com
+Build-Jdk: 1.8.0_301
+Implementation-URL: https://spring.io/projects/spring-boot/Product
+Created-By: Maven Integration for Eclipse
+
